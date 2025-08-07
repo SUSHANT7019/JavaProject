@@ -85,6 +85,8 @@ http://localhost:8080
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **📸 UI Output Screens**
+
+
 <img src="https://github.com/SUSHANT7019/JavaProject/blob/main/MOVIRE_REVIEW/op_1.png" width=500>
 
 <img src="https://github.com/SUSHANT7019/JavaProject/blob/main/MOVIRE_REVIEW/op_2.png" width=500>
