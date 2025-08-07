@@ -1,3 +1,9 @@
+**Made by**
+1) SUSHANT THADGE
+2) AMANKHAN PATHAN
+3) ARYAN DESHMUKHE
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🎬 Movie Review Website
 
 A simple full-stack movie review application built using **Spring Boot (Java)** for the backend, **PostgreSQL** for the database, and **HTML/CSS/JavaScript** for the frontend.
@@ -79,10 +85,8 @@ http://localhost:8080
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **📸 UI Output Screens**
-<img src="#">
-<img src="#">
-<img src="#">
+<img src="https://github.com/SUSHANT7019/JavaProject/blob/main/MOVIRE_REVIEW/op_1.png" width=500>
 
-🧑‍💻 Author
-Your Name
+<img src="https://github.com/SUSHANT7019/JavaProject/blob/main/MOVIRE_REVIEW/op_2.png" width=500>
 
+<img src="https://github.com/SUSHANT7019/JavaProject/blob/main/MOVIRE_REVIEW/op_3.png" width=500>
