@@ -34,25 +34,7 @@ A simple full-stack movie review application built using **Spring Boot (Java)** 
 
 ## 📦 Project Structure (Single Package)
 
-src/
-└── main/
-├── java/
-│ └── com/movies/movie/
-│ ├── MovieReviewApplication.java
-│ ├── Movie.java
-│ ├── Review.java
-│ ├── MovieRepository.java
-│ ├── ReviewRepository.java
-│ └── MovieController.java
-├── resources/
-│ ├── templates/
-│ │ └── index.html
-│ │ └── error.html
-│ ├── static/
-│ │ ├── style.css
-│ │ └── script.js
-│ └── application.properties
-
+<img src="https://github.com/SUSHANT7019/JavaProject/blob/main/MOVIRE_REVIEW/structure.png">
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ⚙️ Setup Instructions
