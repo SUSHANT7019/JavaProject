@@ -1,0 +1,6 @@
+com\movies\movie\MovieApplication.class
+com\movies\movie\ReviewRepository.class
+com\movies\movie\Movie.class
+com\movies\movie\Review.class
+com\movies\movie\MovieController.class
+com\movies\movie\MovieRepository.class

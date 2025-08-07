@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background: #f2f2f2;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+.form-section, .movie-list {
+    margin: 30px auto;
+    max-width: 700px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input, textarea {
+    width: 100%;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    background: #2980b9;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.movie-card {
+    border-top: 2px solid #ddd;
+    margin-top: 20px;
+    padding-top: 15px;
+}
