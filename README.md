@@ -2,7 +2,8 @@
 1) SUSHANT THADGE
 2) AMANKHAN PATHAN
 3) ARYAN DESHMUKHE
-
+4) Dhiraj Kajale
+5) ABDUL SAYYAD
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🎬 Movie Review Website
 
@@ -51,17 +52,23 @@ cd JavaProject
 Create a database in PostgreSQL:
 
 CREATE DATABASE movie_review;
+
 Update application.properties:
 
 spring.datasource.url=jdbc:postgresql://localhost:5432/movies
+
 spring.datasource.username=postgres
+
 spring.datasource.password=root123
+
 spring.jpa.hibernate.ddl-auto=update
+
 spring.jpa.show-sql=true
 
 3. 🚀 Run the Application
 
 4. 🌐 Access the App
+
 Open your browser and go to:
 
 http://localhost:8080
